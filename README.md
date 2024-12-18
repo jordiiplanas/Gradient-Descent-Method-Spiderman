@@ -2,6 +2,8 @@
 
 Este proyecto utiliza **Inverse Kinematics (IK)** con un algoritmo basado en gradiente para simular el movimiento dinámico y realista de los brazos mecánicos del Doctor Octavio mientras persigue a Spiderman, quien sigue una animación cíclica en un entorno 3D.
 
+Este proyecto ha sido desarrollado por Jordi Planas Martinez, Judith Espigol Miguel y Alejandro Martinez Membrilla.
+
 ---
 
 ## Características principales
